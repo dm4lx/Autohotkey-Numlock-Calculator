@@ -1,3 +1,5 @@
 # Autohotkey-Numlock-Calculator
 
-Modified Code from Jive Turkey to enable always-on Numlock.
+Original Author: Jive Turkey 
+
+Modified to enable always-on Numlock.
